@@ -1,16 +1,28 @@
-# This is a sample Python script.
-
-# Press ⇧F10 to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+class Average(object):
+  def __init__(self):
+    self.sum = 0
+    self.cnt = 0
+    self.date = now.strftime("%H:%M:%S")
+    dict = {}
+
+def message_generator()
 
 
-# Press the green button in the gutter to run the script.
+def receive_meessage():
+
+
+def date_message():
+
+def update_message()
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    #Four computers will update the CRDT
+    computers = {
+        'alpha': 1,
+        'beta' : 2,
+        'gamma' : 3,
+        'zeta' : 4,
+    }
